@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+#clock {
+  font-family: verdana, sans-serif;
+  font-size: 5rem;
+  color: limegreen;
+  width: 90%;
+  margin: 0 auto;
+}
